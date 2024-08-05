@@ -1,0 +1,10 @@
+# Journey file format v1.0
+#
+# Comments indicated with a #
+# Fields: From, To, Time, Avoid, Security
+#
+From 314.221.lab   # starting position
+To 402.218.FF      # destination
+Time 10:00         # time of journey
+Avoid stairs,construction      # obstacles to avoid
+Security 2         # security level of traveller

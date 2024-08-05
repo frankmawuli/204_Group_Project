@@ -1,0 +1,12 @@
+# Journey file format v1.0
+# - dataset from Nimalika Fernando Thudugala Mudalige <t.fernando@curtin.edu.au>
+# - modified 17/5/22 to select columns and create map file
+#
+# Comments indicated with a #
+# Fields: From, To, Time, Avoid, Security
+#
+From 1          # starting position
+To 125          # destination
+Time 10:00      # time of journey
+Avoid stairs    # obstacles to avoid
+Security        # security level of traveller
