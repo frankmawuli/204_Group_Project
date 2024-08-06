@@ -1,0 +1,51 @@
+# Map file format v1.0
+#
+# Comments indicated with a #
+# Connection: locn1, locn2, Distance, Security, Barriers
+# > = from|to 
+# < = to|from
+# <> = connection in both directions
+314.221.lab>314.1.ext1|D:3|S:|B:stairs
+314.221.lab<314.1.ext1|D:3|S:1,2|B:stairs
+314.220.lab>314.1.ext1|D:3|S:|B:stairs
+314.220.lab<314.1.ext1|D:3|S:1,2|B:stairs
+314.219.lab>314.1.ext1|D:3|S:|B:stairs
+314.219.lab<314.1.ext1|D:3|S:1,2|B:stairs
+314.218.lab>314.1.ext1|D:3|S:|B:stairs
+314.218.lab<314.1.ext1|D:3|S:1,2|B:stairs
+314.1.ext1<>204.1.ext1|D:10|S:|B:
+204.239.lab<>204.238.lab|D:2|S:|B:
+204.239.lab<>204.238.lab|D:2|S:|B:stairs
+204.1.ext1>204.238.lab|D:3|S:1,2|B:stairs
+204.1.ext1<204.238.lab|D:3|S:|B:stairs
+204.1.ext1>204.238.lab|D:10|S:1,2|B:
+204.1.ext1<204.238.lab|D:10|S:|B:
+204.1.ext1>204.239.lab|D:3|S:1,2|B:stairs
+204.1.ext1<204.239.lab|D:3|S:|B:stairs
+204.1.ext1>204.239.lab|D:10|S:1,2|B:
+204.1.ext1<204.239.lab|D:10|S:|B:
+204.1.ext1>204.1.basement|D:3|S:|B:
+204.1.ext1<204.1.basement|D:3|S:|B:
+210.1.ext1<>204.1.ext1|D:10|S:|B:
+210.1.ext1<>314.1.ext1|D:20|S:|B:
+402.1.ext1<>314.1.ext1|D:50|S:|B:
+402.1.ext1<>204.1.ext1|D:45|S:|B:
+402.1.ext1<>210.1.ext1|D:45|S:|B:
+400.1.ext1<>314.1.ext1|D:52|S:|B:
+400.1.ext1<>204.1.ext1|D:47|S:|B:
+400.1.ext1<>210.1.ext1|D:47|S:|B:
+210.101.LT<>210.1.ext1|D:2|S:|B:
+210.102.LT<>210.1.ext1|D:2|S:|B:
+210.1.ext1<>213.1.ext1|D:4|S:|B:
+213.101.LT<>213.1.ext1|D:2|S:|B:
+213.102.LT<>213.1.ext1|D:2|S:|B:
+213.103.LT<>213.1.ext1|D:2|S:|B:
+105.1.ext1<>314.1.ext1|D:10|S:|B:construction
+105.1.ext1<>204.1.ext1|D:10|S:|B:construction
+105.1.ext1<>210.1.ext1|D:10|S:|B:construction
+105.1.ext1<>105.107.LT|D:2|S:|B:construction
+402.1.ext1<>402.218.FF|D:4|S:|B:
+402.1.ext1<>402.219.FF|D:4|S:|B:
+400.1.ext1<>402.1.ext1|D:12|S:|B:
+400.1.ext1<400.219.FF|D:6|S:|B:
+400.1.ext1>400.219.FF|D:6|S:1,2|B:

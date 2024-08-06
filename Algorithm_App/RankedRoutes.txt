@@ -1,0 +1,36 @@
+204.1.basement 204.1.ext1 400.1.ext1 400.219.FF Distance: 56.0
+
+204.1.basement 204.1.ext1 210.1.ext1 400.1.ext1 400.219.FF Distance: 66.0
+
+204.1.basement 204.1.ext1 402.1.ext1 400.1.ext1 400.219.FF Distance: 66.0
+
+204.1.basement 204.1.ext1 314.1.ext1 400.1.ext1 400.219.FF Distance: 71.0
+
+204.1.basement 204.1.ext1 210.1.ext1 402.1.ext1 400.1.ext1 400.219.FF Distance: 76.0
+
+204.1.basement 204.1.ext1 314.1.ext1 402.1.ext1 400.1.ext1 400.219.FF Distance: 81.0
+
+204.1.basement 204.1.ext1 314.1.ext1 210.1.ext1 400.1.ext1 400.219.FF Distance: 86.0
+
+204.1.basement 204.1.ext1 210.1.ext1 314.1.ext1 400.1.ext1 400.219.FF Distance: 91.0
+
+204.1.basement 204.1.ext1 314.1.ext1 210.1.ext1 402.1.ext1 400.1.ext1 400.219.FF Distance: 96.0
+
+204.1.basement 204.1.ext1 210.1.ext1 314.1.ext1 402.1.ext1 400.1.ext1 400.219.FF Distance: 101.0
+
+204.1.basement 204.1.ext1 402.1.ext1 210.1.ext1 400.1.ext1 400.219.FF Distance: 146.0
+
+204.1.basement 204.1.ext1 402.1.ext1 314.1.ext1 400.1.ext1 400.219.FF Distance: 156.0
+
+204.1.basement 204.1.ext1 314.1.ext1 402.1.ext1 210.1.ext1 400.1.ext1 400.219.FF Distance: 161.0
+
+204.1.basement 204.1.ext1 210.1.ext1 402.1.ext1 314.1.ext1 400.1.ext1 400.219.FF Distance: 166.0
+
+204.1.basement 204.1.ext1 402.1.ext1 314.1.ext1 210.1.ext1 400.1.ext1 400.219.FF Distance: 171.0
+
+204.1.basement 204.1.ext1 402.1.ext1 210.1.ext1 314.1.ext1 400.1.ext1 400.219.FF Distance: 171.0
+
+
+
+Start location: 204.1.basement  End location: 400.219.FF
+Security clearance: 2   Barriers to avoid: stairs, construction

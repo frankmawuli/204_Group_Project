@@ -1,0 +1,69 @@
+From: 314.221.lab        To: 314.1.ext1           Distance: 3.0            Security Level: 0        Barrier: stairs          
+From: 314.1.ext1         To: 314.221.lab          Distance: 3.0            Security Level: 2        Barrier: stairs          
+From: 314.220.lab        To: 314.1.ext1           Distance: 3.0            Security Level: 0        Barrier: stairs          
+From: 314.1.ext1         To: 314.220.lab          Distance: 3.0            Security Level: 2        Barrier: stairs          
+From: 314.219.lab        To: 314.1.ext1           Distance: 3.0            Security Level: 0        Barrier: stairs          
+From: 314.1.ext1         To: 314.219.lab          Distance: 3.0            Security Level: 2        Barrier: stairs          
+From: 314.218.lab        To: 314.1.ext1           Distance: 3.0            Security Level: 0        Barrier: stairs          
+From: 314.1.ext1         To: 314.218.lab          Distance: 3.0            Security Level: 2        Barrier: stairs          
+From: 314.1.ext1         To: 204.1.ext1           Distance: 10.0           Security Level: 0        Barrier:                 
+From: 204.1.ext1         To: 314.1.ext1           Distance: 10.0           Security Level: 0        Barrier:                 
+From: 204.239.lab        To: 204.238.lab          Distance: 2.0            Security Level: 0        Barrier:                 
+From: 204.238.lab        To: 204.239.lab          Distance: 2.0            Security Level: 0        Barrier:                 
+From: 204.239.lab        To: 204.238.lab          Distance: 2.0            Security Level: 0        Barrier: stairs          
+From: 204.238.lab        To: 204.239.lab          Distance: 2.0            Security Level: 0        Barrier: stairs          
+From: 204.1.ext1         To: 204.238.lab          Distance: 3.0            Security Level: 2        Barrier: stairs          
+From: 204.238.lab        To: 204.1.ext1           Distance: 3.0            Security Level: 0        Barrier: stairs          
+From: 204.1.ext1         To: 204.238.lab          Distance: 10.0           Security Level: 2        Barrier:                 
+From: 204.238.lab        To: 204.1.ext1           Distance: 10.0           Security Level: 0        Barrier:                 
+From: 204.1.ext1         To: 204.239.lab          Distance: 3.0            Security Level: 2        Barrier: stairs          
+From: 204.239.lab        To: 204.1.ext1           Distance: 3.0            Security Level: 0        Barrier: stairs          
+From: 204.1.ext1         To: 204.239.lab          Distance: 10.0           Security Level: 2        Barrier:                 
+From: 204.239.lab        To: 204.1.ext1           Distance: 10.0           Security Level: 0        Barrier:                 
+From: 204.1.ext1         To: 204.1.basement       Distance: 3.0            Security Level: 0        Barrier:                 
+From: 204.1.basement     To: 204.1.ext1           Distance: 3.0            Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 204.1.ext1           Distance: 10.0           Security Level: 0        Barrier:                 
+From: 204.1.ext1         To: 210.1.ext1           Distance: 10.0           Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 314.1.ext1           Distance: 20.0           Security Level: 0        Barrier:                 
+From: 314.1.ext1         To: 210.1.ext1           Distance: 20.0           Security Level: 0        Barrier:                 
+From: 402.1.ext1         To: 314.1.ext1           Distance: 50.0           Security Level: 0        Barrier:                 
+From: 314.1.ext1         To: 402.1.ext1           Distance: 50.0           Security Level: 0        Barrier:                 
+From: 402.1.ext1         To: 204.1.ext1           Distance: 45.0           Security Level: 0        Barrier:                 
+From: 204.1.ext1         To: 402.1.ext1           Distance: 45.0           Security Level: 0        Barrier:                 
+From: 402.1.ext1         To: 210.1.ext1           Distance: 45.0           Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 402.1.ext1           Distance: 45.0           Security Level: 0        Barrier:                 
+From: 400.1.ext1         To: 314.1.ext1           Distance: 52.0           Security Level: 0        Barrier:                 
+From: 314.1.ext1         To: 400.1.ext1           Distance: 52.0           Security Level: 0        Barrier:                 
+From: 400.1.ext1         To: 204.1.ext1           Distance: 47.0           Security Level: 0        Barrier:                 
+From: 204.1.ext1         To: 400.1.ext1           Distance: 47.0           Security Level: 0        Barrier:                 
+From: 400.1.ext1         To: 210.1.ext1           Distance: 47.0           Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 400.1.ext1           Distance: 47.0           Security Level: 0        Barrier:                 
+From: 210.101.LT         To: 210.1.ext1           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 210.101.LT           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 210.102.LT         To: 210.1.ext1           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 210.102.LT           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 210.1.ext1         To: 213.1.ext1           Distance: 4.0            Security Level: 0        Barrier:                 
+From: 213.1.ext1         To: 210.1.ext1           Distance: 4.0            Security Level: 0        Barrier:                 
+From: 213.101.LT         To: 213.1.ext1           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 213.1.ext1         To: 213.101.LT           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 213.102.LT         To: 213.1.ext1           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 213.1.ext1         To: 213.102.LT           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 213.103.LT         To: 213.1.ext1           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 213.1.ext1         To: 213.103.LT           Distance: 2.0            Security Level: 0        Barrier:                 
+From: 105.1.ext1         To: 314.1.ext1           Distance: 10.0           Security Level: 0        Barrier: construction    
+From: 314.1.ext1         To: 105.1.ext1           Distance: 10.0           Security Level: 0        Barrier: construction    
+From: 105.1.ext1         To: 204.1.ext1           Distance: 10.0           Security Level: 0        Barrier: construction    
+From: 204.1.ext1         To: 105.1.ext1           Distance: 10.0           Security Level: 0        Barrier: construction    
+From: 105.1.ext1         To: 210.1.ext1           Distance: 10.0           Security Level: 0        Barrier: construction    
+From: 210.1.ext1         To: 105.1.ext1           Distance: 10.0           Security Level: 0        Barrier: construction    
+From: 105.1.ext1         To: 105.107.LT           Distance: 2.0            Security Level: 0        Barrier: construction    
+From: 105.107.LT         To: 105.1.ext1           Distance: 2.0            Security Level: 0        Barrier: construction    
+From: 402.1.ext1         To: 402.218.FF           Distance: 4.0            Security Level: 0        Barrier:                 
+From: 402.218.FF         To: 402.1.ext1           Distance: 4.0            Security Level: 0        Barrier:                 
+From: 402.1.ext1         To: 402.219.FF           Distance: 4.0            Security Level: 0        Barrier:                 
+From: 402.219.FF         To: 402.1.ext1           Distance: 4.0            Security Level: 0        Barrier:                 
+From: 400.1.ext1         To: 402.1.ext1           Distance: 12.0           Security Level: 0        Barrier:                 
+From: 402.1.ext1         To: 400.1.ext1           Distance: 12.0           Security Level: 0        Barrier:                 
+From: 400.219.FF         To: 400.1.ext1           Distance: 6.0            Security Level: 0        Barrier:                 
+From: 400.1.ext1         To: 400.219.FF           Distance: 6.0            Security Level: 2        Barrier:                 
+
