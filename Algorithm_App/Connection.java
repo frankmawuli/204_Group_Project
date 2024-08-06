@@ -1,8 +1,7 @@
 import java.io.Serializable;
 
 /*****************************************************************************
- * Author: Kalindu Abeysinghe
- * Date: 30th April 2022
+
  * Purpose: This class is created to model the connections into objects and
  * store them as a DSAGraphEdge
  * in a DSAGraph object.
