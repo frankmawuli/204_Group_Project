@@ -1,6 +1,6 @@
 # Journey file format v1.0
 # - dataset from Nimalika Fernando Thudugala Mudalige <t.fernando@curtin.edu.au>
-# - modified 17/5/22 to select columns and create map file
+# - modified 17/07/24 to select columns and create map file
 #
 # Comments indicated with a #
 # Fields: From, To, Time, Avoid, Security
