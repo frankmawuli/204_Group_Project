@@ -1,12 +1,10 @@
 import java.io.Serializable;
 
-/**
- * Author: Kalindu Abeysinghe
- * Date: 19th May 2022
- * Self-citation: The graph class is obtained from practical 6 and some of the
- * methods
- * from it are unmodified, but most of methods are newly written to this.
- */
+
+ // * Self-citation: The graph class is obtained from practical 6 and some of the
+ // * methods
+ // * from it are unmodified, but most of methods are newly written to this.
+ 
 
 public class DSAGraph implements Serializable {
     private DSALinkedList vertices;
